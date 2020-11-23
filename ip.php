@@ -74,7 +74,7 @@
                                             <td>6</td>
                                             <td>stara klasa  C, Private Internet</td>
                                             </tr></tbody></table><footer>
-    <p><a href="/">ZSLT KLUCZBORK 2020</a></p>
+    <p><a href="/">made by Mikolaj Wegrzyn </a></p>
 </footer>
 </div>
 <style>
